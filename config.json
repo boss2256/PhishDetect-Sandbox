@@ -1,0 +1,6 @@
+{
+    "database": {
+        "name": "user_inputs.db"
+    },
+    "templates_folder": "templates/"
+}
